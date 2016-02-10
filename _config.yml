@@ -1,6 +1,6 @@
 name: Singularitystudio
 favicon: null
-layout_spectrum: 0.0648
+layout_spectrum: 0.9496
 typography_spectrum: 0.16813
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#fecf93'
     - '#d8a26b'
     - '#defecf'
-  brandStrength: 0.6185486519243568
-  lightness: 0.375
+  brandStrength: 0.0625
+  lightness: 0.125
   saturation: 0.20710704009979963
   rhythmicContrast: 0.43653451511636376
 purpose: []
