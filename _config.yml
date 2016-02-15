@@ -1,6 +1,6 @@
 name: Singularitystudio
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.68616
 typography_spectrum: 0.16813
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#090909'
-    - '#645c5a'
-    - '#ffcda8'
-    - '#262a2a'
-  brandStrength: 0.6875
+    - '#a9adb0'
+    - '#ecedf1'
+    - '#818284'
+    - '#50483a'
+    - '#a27d42'
+  brandStrength: 0.5625
   lightness: 0.375
   saturation: 0.8125
   rhythmicContrast: 0.5
