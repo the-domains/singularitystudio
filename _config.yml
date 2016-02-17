@@ -1,5 +1,7 @@
-favicon: null
-name: Singularity studio
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -10,13 +12,13 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+    permalink:
+      path: '/:title/'
+layout_spectrum: 1
 color:
   saturation: 0
   brandStrength: 0.8125
@@ -28,13 +30,11 @@ color:
     - '#50483a'
     - '#a27d42'
   lightness: 0.5625
-typography_spectrum: 0.20785
+purpose: []
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+name: Singularity studio
+typography_spectrum: 0.20785
