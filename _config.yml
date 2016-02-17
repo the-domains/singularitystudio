@@ -1,28 +1,40 @@
-name: Singularity studio
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.20785
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Singularity studio
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0
+  brandStrength: 0.8125
+  rhythmicContrast: 0.75
   brandColors:
     - '#a9adb0'
     - '#ecedf1'
     - '#818284'
     - '#50483a'
     - '#a27d42'
-  brandStrength: 0.8125
   lightness: 0.5625
-  saturation: 0
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.20785
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
