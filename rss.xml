@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Singularity studio]]></title>
         <description><![CDATA[Singularity studio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/singularitystudio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 03:20:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Mar 2016 03:20:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/singularitystudio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8fbf3c95-8645-40cd-a726-53a145f6d95d.png" alt="" title="">]]></description>
+            <link>https://thegrid.ai/singularitystudio/01a1e25f-2a98-4ab4-897b-cf800d19eedc/index.html</link>
+            <guid isPermaLink="false">01a1e25f-2a98-4ab4-897b-cf800d19eedc</guid>
+            <pubDate>Tue, 08 Mar 2016 03:14:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e14b5a8-d71b-4043-8181-e473003b6d58.png">]]></description>
-            <link>undefinede7f21d0d-082c-48b5-a2a6-b842633772e5/index.html</link>
+            <link>https://thegrid.ai/singularitystudio/e7f21d0d-082c-48b5-a2a6-b842633772e5/index.html</link>
             <guid isPermaLink="false">e7f21d0d-082c-48b5-a2a6-b842633772e5</guid>
             <pubDate>Tue, 08 Mar 2016 03:14:16 GMT</pubDate>
         </item>
