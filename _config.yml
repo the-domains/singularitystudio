@@ -1,6 +1,6 @@
 name: Singularity studio
 favicon: null
-layout_spectrum: 0.75292
+layout_spectrum: 0.49249
 typography_spectrum: 0.47361
 collections:
   - index:
@@ -33,7 +33,7 @@ color:
     - '#818284'
     - '#50483a'
     - '#a27d42'
-  brandStrength: 0.875
+  brandStrength: 1
   lightness: 0.5625
   saturation: 0
   rhythmicContrast: 0.75
